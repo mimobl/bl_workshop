@@ -3,9 +3,6 @@
 
 
 <colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
-</colgroup>
 <tr>
 <th>美術館</th>
 <th>直近で行った展覧会</th>
